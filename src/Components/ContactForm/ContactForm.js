@@ -30,7 +30,7 @@ const ContactForm = ({ onAddContact }) => {
         />
       </Label>
       <Label>
-        Number*
+        Number
         <Input
           type="text"
           name="number"
